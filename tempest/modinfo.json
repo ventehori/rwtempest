@@ -1,0 +1,11 @@
+{
+	"id": "tempest",
+	"name": "Tempest",
+	"version": "0.0.0",
+	"hide_version": false,
+	"authors": "ventehori",
+	"description": "EXTREMELY EARLY WIP",
+	"requirements": [],
+	"requirements_names": [],
+	"checksum_override_version": false
+}
